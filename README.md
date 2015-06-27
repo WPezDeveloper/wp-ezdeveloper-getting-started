@@ -9,6 +9,15 @@ The purpose of these docs is to make more people more effective when they take h
 "Doing the right thing" is primary, from which "doing things right" follows. 
 
 
+
+## Huh?
+
+Put another way, instead of having individual developers and Facebook groups "hoarding" useful information in their respective silos, the ideal here is to get that "stuff" into the open, in a more pro-collaboration public space. 
+
+Think of it as a community based collection of "documentation" responding to various FAQs for WP dev. 
+ 
+
+
 ## Why?
 
 #### The following is a (slightly edited) comment I left on a Torque post that in a soft rant-y sort of way adds some good context:
