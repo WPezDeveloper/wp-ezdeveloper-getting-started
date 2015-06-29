@@ -41,3 +41,10 @@ It just makes better sense. Collect the best articles, when appropriate aggregat
 With that said, here's a raw and barely "beta" implementation of the above idea.
 
 https://github.com/WPezDeveloper
+
+
+## Additional Inspiration(s)
+
+"...(MIT professor Sandy) Pentland found that collective intelligence stems from unsiloed dissonance: 'when the flow of ideas incorporates a constant stream of outside ideas as well, then the individual in the community make better decision than they could on their own.'"
+
+from the book Team of Teams by General Stanley McChrystal (U.S. Army, Retired)
