@@ -16,6 +16,12 @@ The purpose of these docs is to make more people more effective when they take h
 Put another way, instead of having individual developers and Facebook groups "hoarding" useful information in their respective silos, the ideal here is to get that "stuff" into the open, in a more pro-collaboration public space. 
 
 Think of it as a community based collection of "documentation" responding to various FAQs for WP dev. 
+
+
+
+## Put another way
+
+If you think the 20th century midset of hoarding infomation in non-public (i.e., can't be indexed by a seach engine bot) silos (e.g., Facebook groups) is good idea then the WPezDeveloper Ref Doc effort is probably not for you. 
  
 
 
