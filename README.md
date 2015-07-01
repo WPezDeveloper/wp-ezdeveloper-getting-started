@@ -1,4 +1,5 @@
 #WPezDeveloper
+https://twitter.com/WPezDeveloper
 
 ## Reference Documents Manifesto (v 0.0.1)
 
@@ -48,3 +49,4 @@ https://github.com/WPezDeveloper
 "...(MIT professor Sandy) Pentland found that collective intelligence stems from unsiloed dissonance: 'when the flow of ideas incorporates a constant stream of outside ideas as well, then the individual in the community make better decision than they could on their own.'"
 
 from the book Team of Teams by General Stanley McChrystal (U.S. Army, Retired)
+
